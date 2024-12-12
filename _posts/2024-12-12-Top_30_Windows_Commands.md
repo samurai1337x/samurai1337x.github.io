@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 30 Windows Command Line Cheat Sheet
-date: 07-12-2024
+date: 12-12-2024
 categories: [Windows]
 tag: [Windows Commands, Windows Basics, Windows Guide, Windows Tips]
 ---
